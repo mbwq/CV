@@ -1,0 +1,71 @@
+
+/* cette élement est le corp de la page du html*/
+body{
+    background-color: rgba(255, 166, 0, 0.234);
+    width: 580px;
+    margin-left: 25%;
+    border: 6px solid white;
+    flex: 60px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+/* pour tous les à gauche*/
+
+.gauche{
+    float: left;
+    width: 300px;
+
+
+}
+/* pour tous les à droite*/
+.droite{
+    align-items: center;
+    float: right;
+    width: 200px;
+    
+}
+/* cette élement le block pour l'image*/
+
+img{
+    border-radius: 50%;
+    border: 1px solid white;
+
+}
+/* cette élement le block langue*/
+.langue{
+    background-color: ghostwhite;
+    width: 100px;
+    border-radius: 10px;
+}
+
+/* cette élement le block compétence*/
+.compétence{
+    background-color: ghostwhite;
+    width: 180px;
+    border-radius: 10px;
+}
+
+/* cette élement le block Contact*/
+.Contact{
+    background-color: ghostwhite;
+    width: 240px;
+    border-radius: 10px;
+}
+
+/* cette élement le block Formation*/
+.Formation{
+    background-color: ghostwhite;
+    width: 210px;
+    border-radius: 10px;
+}
+
+/* cette élement le block ExpPRO*/
+.ExpPRO{
+    background-color: ghostwhite;
+    width: 210px;
+    border-radius: 10px;
+}
+
+
